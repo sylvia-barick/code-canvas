@@ -1,0 +1,5 @@
+{
+  "name": "LanderVise AI",
+  "description": "An AI-powered UX design reviewer that provides structured feedback and comparisons for landing page screenshots using advanced vision models.",
+  "requestFramePermissions": []
+}
