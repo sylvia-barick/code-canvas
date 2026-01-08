@@ -120,8 +120,8 @@ const App: React.FC = () => {
             <span className="text-[10px] font-extrabold text-slate-600 uppercase tracking-[0.2em]">High-Volume Forensic Auditing</span>
           </div>
           <h1 className="text-7xl md:text-[105px] font-[900] text-slate-900 tracking-[-0.05em] leading-[0.88] animate-in fade-in slide-in-from-bottom-4 duration-700 delay-100">
-            Audit variants, <br/>
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 via-violet-600 to-indigo-600 animate-gradient">reveal growth.</span>
+            Converge <br/>
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 via-violet-600 to-indigo-600 animate-gradient">2026</span>
           </h1>
           <p className="text-xl text-slate-400 max-w-2xl mx-auto font-medium leading-relaxed animate-in fade-in slide-in-from-bottom-6 duration-700 delay-200">
             Upload two interface variants. Our high-fidelity neural auditor evaluates visual hierarchy, clarity, and identifies precise pixel-level differences.
